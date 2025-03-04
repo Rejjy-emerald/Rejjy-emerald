@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about data analysis and Machine learning. 
 I enjoy learning new technologies and building projects that extract insights from data and solve real-world problems.
 
-![Profile Picture](https://your-image-link.com)
+![Profile Picture](https://[image-link.com](https://github.com/Rejjy-emerald/Rejjy-emerald/blob/d7483d169e6d24f32047fdb8383d1a351277b5c3/profile%20image.jpeg))
 
 ##  About Me
 -  Data Analyst with expertise in **Jupyter Notebook, Python, and Power BI**.  
